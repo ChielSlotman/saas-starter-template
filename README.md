@@ -8,4 +8,6 @@ Replace `index.html` with a new exported HTML file when you are ready.
 
 ## Preview
 
-Open `index.html` directly in a browser, or publish it from the repository root.
+Live site: https://chielslotman.github.io/saas-starter-template/
+
+Short link: https://tinyurl.com/24pnkcp6
