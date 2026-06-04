@@ -1,10 +1,10 @@
-# Starter Studio Template
+# RAI Amsterdam Connecting the Dots Report
 
-Small responsive static website template.
+Static HTML site for the RAI Amsterdam Connecting the Dots report.
 
 ## Edit
 
-Replace `index.html` with your own HTML when you are ready.
+Replace `index.html` with a new exported HTML file when you are ready.
 
 ## Preview
 
